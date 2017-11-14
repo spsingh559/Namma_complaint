@@ -23,8 +23,8 @@ app.post('/api/v1/RaiseComplaint', function (req, res) {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth:{
-          user:'spsingh559@gmail.com',
-          pass:'Shyam123@sush'
+          user:'your user gmail id',
+          pass:'your password'
         }
     });
 
